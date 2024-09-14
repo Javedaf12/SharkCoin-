@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ps">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SharkCoin Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            margin: 0;
+            padding: 10px;
+            background-color: #003366;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .token-section {
+            background-color: #e0f7fa;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        .social-media {
+            margin-top: 10px;
+        }
+        .social-media a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>SharkCoin Project</h1>
+        <p>The future of meme coins in the crypto world!</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#token">Token Details</a>
+        <a href="#team">Team</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About SharkCoin</h2>
+        <p>SharkCoin is a meme token designed to dominate the crypto seas. With innovative ideas and a dedicated community, SharkCoin offers a unique way for crypto enthusiasts to engage in a fun and rewarding ecosystem. Join the movement and swim with the sharks!</p>
+    </section>
+
+    <section id="token" class="token-section">
+        <h2>Token Details</h2>
+        <ul>
+            <li><strong>Total Supply:</strong> 100,000,000,000 SharkCoins</li>
+            <li><strong>Standard:</strong> BEP-20</li>
+            <li><strong>Symbol:</strong> SHRK</li>
+            <li><strong>Blockchain:</strong> Binance Smart Chain (BSC)</li>
+        </ul>
+    </section>
+
+    <section id="team">
+        <h2>Meet the Team</h2>
+        <p>Our team is composed of experienced developers, marketers, and crypto enthusiasts who are passionate about bringing SharkCoin to life.</p>
+        <ul>
+            <li><strong>Sadat:</strong> Founder & Lead Developer</li>
+            <li><strong>John Doe:</strong> Marketing Expert</li>
+            <li><strong>Jane Smith:</strong> Community Manager</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or want to learn more about SharkCoin, feel free to reach out!</p>
+        <p>Email: <a href="mailto:info@sharkcoin.com">info@sharkcoin.com</a></p>
+        <p>Follow us on social media:</p>
+        <div class="social-media">
+            <a href="https://twitter.com/sharkcoin">Twitter</a> |
+            <a href="https://t.me/sharkcoin">Telegram</a> |
+            <a href="https://youtube.com/sharkcoin">YouTube</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SharkCoin. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
